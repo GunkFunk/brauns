@@ -1,0 +1,24 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Player","order":10,"path":"folders/Player.yy",},
+    {"name":"Objects","order":8,"path":"folders/Objects.yy",},
+    {"name":"Rooms","order":9,"path":"folders/Rooms.yy",},
+    {"name":"Scripts","order":4,"path":"folders/Scripts.yy",},
+    {"name":"Sounds","order":2,"path":"folders/Sounds.yy",},
+    {"name":"Tile Sets","order":1,"path":"folders/Tile Sets.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"o_bow","order":5,"path":"objects/o_bow/o_bow.yy",},
+    {"name":"o_solid","order":1,"path":"objects/o_solid/o_solid.yy",},
+    {"name":"anim","order":4,"path":"scripts/anim/anim.yy",},
+    {"name":"calc_movement","order":2,"path":"scripts/calc_movement/calc_movement.yy",},
+    {"name":"Collision","order":3,"path":"scripts/Collision/Collision.yy",},
+    {"name":"reset_variables","order":1,"path":"scripts/reset_variables/reset_variables.yy",},
+    {"name":"s_bow","order":6,"path":"sprites/s_bow/s_bow.yy",},
+    {"name":"s_cursor","order":4,"path":"sprites/s_cursor/s_cursor.yy",},
+    {"name":"s_player_dead","order":3,"path":"sprites/s_player_dead/s_player_dead.yy",},
+    {"name":"s_player_idle","order":1,"path":"sprites/s_player_idle/s_player_idle.yy",},
+    {"name":"s_player_walk","order":2,"path":"sprites/s_player_walk/s_player_walk.yy",},
+    {"name":"s_solid","order":1,"path":"sprites/s_solid/s_solid.yy",},
+  ],
+}
